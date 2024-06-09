@@ -1,0 +1,2 @@
+# Stringo
+Para testes
